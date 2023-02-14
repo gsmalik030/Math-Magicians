@@ -4,7 +4,7 @@ const Component = () => (
   <div className="calculator">
     <div className="calculator__display">0</div>
     <button type="button" className="key">AC</button>
-    <button type="button" className="key">+/-</button>
+    <button type="button" className="key">÷/-</button>
     <button type="button" className="key">%</button>
     <button type="button" className="key orange">+</button>
     <button type="button" className="key">7</button>
