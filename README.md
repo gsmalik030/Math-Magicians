@@ -40,9 +40,9 @@
   </ul>
 </details>
 
-### Key Features <a name="key-features"></a>
+### Key Features <a name="add components"></a>
 
-- **Do all your maths with this web app**
+- Do all your maths with this web app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,8 +117,8 @@ Test this app by runing:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add functionality**
-- [ ] **Add styles**
+- [ ] **Use react hooks**
+- [ ] **Implement full website**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
