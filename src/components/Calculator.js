@@ -25,7 +25,7 @@ const Calculator = () => {
       <button onClick={handleEvent} type="button" className="key">AC</button>
       <button onClick={handleEvent} type="button" className="key">÷/-</button>
       <button onClick={handleEvent} type="button" className="key">%</button>
-      <button onClick={handleEvent} type="button" className="key orange">+</button>
+      <button onClick={handleEvent} type="button" className="key orange">÷</button>
       <button onClick={handleEvent} type="button" className="key">7</button>
       <button onClick={handleEvent} type="button" className="key">8</button>
       <button onClick={handleEvent} type="button" className="key">9</button>
