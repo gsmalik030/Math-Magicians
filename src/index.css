@@ -45,35 +45,35 @@ code {
   background-color: #f39148;
 }
 
-.heading-calculator{
+.heading-calculator {
   font-size: 2.5rem;
   margin-left: 5rem;
 }
 
-.calculator-box{
-  display:grid;
+.calculator-box {
+  display: grid;
   grid-template-columns: 40% 60%;
   margin-top: 5rem;
 }
 
-.home{
+.home {
   margin: 5rem;
 }
 
-h1{
+h1 {
   font-size: 3rem;
   font-weight: 700;
   color: #302f2f;
   text-decoration: none;
 }
 
-.home-text{
+.home-text {
   font-size: 2rem;
   color: #302f2f;
   text-decoration: none;
 }
 
-.quote{
+.quote {
   font-size: 2rem;
   color: #302f2f;
   text-decoration: none;

@@ -1,30 +1,29 @@
-html{
-    font-size: 62.5%;
+html {
+  font-size: 62.5%;
 }
 
-ul{
-    list-style: none;
+ul {
+  list-style: none;
 }
 
-.navbar{
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    padding: 1rem 2rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.navbar {
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.logo{
-    font-size: 2rem;
-    font-weight: 700;
-    color: #302f2f;
-    text-decoration: none;
+.logo {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #302f2f;
+  text-decoration: none;
 }
 
-.navbar-list{
-    display: flex;
-    gap: 2rem;
-    font-size: 2rem;
+.navbar-list {
+  display: flex;
+  gap: 2rem;
+  font-size: 2rem;
 }
-
