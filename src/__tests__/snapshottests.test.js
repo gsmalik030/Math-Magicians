@@ -1,6 +1,6 @@
 import { render } from '@testing-library/react';
-import Home from '../components/Home';
-import Quote from '../components/Quote';
+import Home from '../components/home';
+import Quote from '../components/quote';
 
 describe('Snapshot for Calculator and Home', () => {
   it('Snapshot should match component render', () => {
