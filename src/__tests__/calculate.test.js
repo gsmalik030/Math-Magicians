@@ -1,6 +1,4 @@
-// eslint-disable-next-line import/extensions
 import calculate from '../logic/calculate';
-// import operate from '../logic/operate';
 
 describe('testing calculate function', () => {
   test(' return {total: null, next: null, operation: null} when buttonName is AC',
