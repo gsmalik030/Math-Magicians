@@ -1,4 +1,5 @@
 import { render } from '@testing-library/react';
+import { BrowserRouter } from 'react-router-dom';
 import Home from '../components/home';
 import Quote from '../components/quote';
 import Navbar from '../components/navbar';
@@ -14,7 +15,7 @@ describe('Snapshot for Calculator and Home', () => {
     expect(quoteview).toMatchSnapshot();
   });
   it('Snapshot should match component render', () => {
-    const navview = render(<Navbar />);
+    const navview = render(<BrowserRouter><Navbar /></BrowserRouter>);
     expect(navview).toMatchSnapshot();
   });
   it('Snapshot should match component render', () => {
